@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #120021;
+    background: #1A0033;
 }
 
 /*NAVBAR*/
@@ -343,7 +343,7 @@ body {
 
 /*ABOUT SECTION */
 .about {
-    background: #120021;
+    background: #1A0033;
     padding: 80px 20px 60px;
     text-align: center;
 }
@@ -423,7 +423,7 @@ body {
 
 /*WHY CHOOSE SECTION*/
 .why-choose {
-    background: #120021;
+    background: #2A0A4A;
     padding: 100px 20px;
 }
 
@@ -596,7 +596,7 @@ body {
 
 /*MEET THE HOST*/
 .meet-host {
-    background: linear-gradient(180deg, #1a0033, #120021);
+    background: #120021;
     padding: 90px 20px;
 }
 
@@ -616,7 +616,7 @@ body {
     display: flex;
     align-items: center;
     gap: 40px;
-    background: rgba(255, 255, 255, 0.04);
+    background: rgba(43, 11, 79, 1);
     border-radius: 20px;
     padding: 30px;
 }
