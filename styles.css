@@ -207,7 +207,8 @@ body {
     height: 300px;
     margin: 0 auto 25px;
     border-radius: 50%;
-    background: url("assets/hero-circle.png") center / cover no-repeat;
+    background: url("assets/hero-circle.png") center / contain no-repeat;
+
     display: flex;
     align-items: center;
     justify-content: center;
